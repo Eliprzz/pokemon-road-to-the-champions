@@ -1,0 +1,9 @@
+POKÉMON ROAD TO THE CHAMPIONS — PAQUETE LISTO PARA PUBLICAR
+
+Archivo principal: index.html
+Icono: favicon.png
+Manifest: manifest.webmanifest
+Robots: robots.txt
+
+Sube todos estos archivos a un hosting estático.
+Después registra la URL pública en Google Search Console para solicitar indexación.

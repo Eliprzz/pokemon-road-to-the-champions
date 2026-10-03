@@ -1,0 +1,15 @@
+{
+  "name": "Pokémon Road to the Champions",
+  "short_name": "Road to the Champions",
+  "description": "Juego fan de campeonatos Pokémon.",
+  "lang": "es",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#05070d",
+  "theme_color": "#e33535",
+  "icons": [{
+    "src": "favicon.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }]
+}
